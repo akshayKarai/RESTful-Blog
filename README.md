@@ -31,3 +31,9 @@ var blogSchema = new mongoose.Schema({
 });
 var Blog = mongoose.model("Blog", blogSchema);
 ```
+## Mongoose queries used:-
+```
+findById()
+findByIdAndUpdate()
+findByIdAndRemove()
+```
