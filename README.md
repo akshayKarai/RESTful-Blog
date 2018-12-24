@@ -16,6 +16,8 @@ methodOverride = require("method-override"),
 expressSanitizer = require("express-sanitizer"),
 mongoose = require("mongoose"),
 express = require("express"),
+ejs = require("ejs);
+
 ```
 ## To connect to Mongoose client:-
 ```
